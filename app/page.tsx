@@ -16,7 +16,7 @@ export default function PortfolioHome() {
     if (activeTab === tab) {
       setActiveTab('default');
     } else {
-      setActiveTab(tab); miaw
+      setActiveTab(tab);
     }
   };
 
